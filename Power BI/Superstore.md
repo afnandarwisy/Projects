@@ -1,10 +1,15 @@
-# 🛒 Superstore Sales Dashboard (Power BI)
+# Superstore Sales Dashboard (Power BI)
 
-## 📊 Project Overview
+## Interactive Dashboard
+
+[Click here to view the live Power BI report](https://app.powerbi.com/view?r=eyJrIjoiMzQwMDA4ZTMtZWI0Yi00ODVkLWEwYzUtNWE3NDU1OWQ1ZmE4IiwidCI6ImE2M2JiMWE5LTQ4YzItNDQ4Yi04NjkzLTMzMTdiMDBjYTdmYiIsImMiOjEwfQ%3D%3D)
+
+
+## Project Overview
 This interactive sales dashboard was built using Power BI to analyze historical performance from a fictional Superstore across categories, customer segments, geographic regions, and product lines. The purpose of this dashboard is to uncover actionable insights and demonstrate the ability to build end-to-end business intelligence solutions.
 
 > **Dataset Summary:**  
-> Based on a simulated sales dataset covering **4 years**, with over **3,000 orders**, **12,500 units sold**, and nearly **$734,000 in revenue**.
+> Based on a simulated sales dataset covering **4 years** with dedicated year, for 2014, with over **3,000 orders**, **12,500 units sold**, and nearly **$734,000 in revenue**.
 
 ---
 
